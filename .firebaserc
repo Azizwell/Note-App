@@ -1,0 +1,9 @@
+{
+  "rules": {
+    ".read": "auth != null",
+    ".write": "auth != null"
+  },
+  "projects": {
+    "default": "react-hooks-d1570"
+  }
+}
